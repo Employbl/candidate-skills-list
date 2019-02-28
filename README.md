@@ -12,81 +12,81 @@ Right now we focus primarily on candidates and companies in the San Francisco Ba
 
 ## Skills
 
+- .NET
+- Android
+- Angular
+- Angular.js
+- Artificial Intelligence
+- AWS
+- Bootcamp grad
+- C level
+- C#
+- Chef
+- Content Marketing
+- CSS
+- Customer Success
+- Customer Support
+- Data Science
+- Design
+- DevOps
+- Director Level
+- Django
+- ElasticSearch
+- Elixir
+- Entry level
+- ES6
+- Executive Assistant
+- Gaming
+- Git
+- Go lang
+- Google Cloud
+- Graphic Design
+- Hadoop
+- HTML
+- Human Resources
+- Hungry to learn
+- iOS
+- Java
 - Javascript
+- jQuery
+- Kotlin
+- Laravel
+- Leadership
+- Logistics
+- Machine Learning
+- Marketing
+- Marketo
+- MBA Grad
+- Mobile
+- MongoDB
+- MySQL
+- New Grad
+- Node.js
+- Non-profit experience
+- Penetration testing
+- Photoshop
 - PHP
+- PostgreSQL
+- Product Management
+- Product Marketing
+- Project Management
+- Puppet
+- Python
+- React.js
+- Recruiting
 - Ruby
 - Ruby On Rails
-- AWS
-- Node.js
-- MongoDB
-- Laravel
-- Python
-- Django
-- React.js
-- Vue.js
-- jQuery
-- Marketing
-- Content Marketing
-- Product Marketing
-- Product Management
-- Project Management
-- Customer Success
 - Sales
-- Recruiting
-- Human Resources
-- UX Design
-- UI Design
-- Design
-- Software Engineering
-- Java
-- MySQL
-- Customer Support
-- SQL
-- Google Cloud
-- DevOps
-- Chef
-- Puppet
-- Leadership
-- New Grad
-- MBA Grad
-- ES6
-- Director Level
-- C level
-- Bootcamp grad
-- PostgreSQL
-- Marketo
 - Salesforce
-- Hungry to learn
+- Security
+- Software Engineering
+- SQL
+- SQL Server
+- Supply chain
+- Swift
+- UI Design
+- US Military Veteran
+- UX Design
+- Vue.js
 - Willing to travel
 - Wordpress
-- HTML
-- CSS
-- Photoshop
-- Go lang
-- Elixir
-- Angular
-- ElasticSearch
-- Angular.js
-- Entry level
-- Security
-- Penetration testing
-- Non-profit experience
-- Supply chain
-- Logistics
-- US Military Veteran
-- Executive Assistant
-- Graphic Design
-- C#
-- Gaming
-- .NET
-- Mobile
-- Android
-- iOS
-- Swift
-- Kotlin
-- Git
-- Hadoop
-- Machine Learning
-- Data Science
-- Artificial Intelligence
-- SQL Server
