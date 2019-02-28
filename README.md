@@ -11,8 +11,6 @@ Right now we focus primarily on candidates and companies in the San Francisco Ba
 
 > **Join Employbl:** If you have not applied to join Employbl, feel free to do so here: https://employbl.com/candidates 🙌
 
-> **Add a skill:** To add a new skill to this list [open an issue](https://github.com/Employbl/candidate-skills-list/issues/new) ⬆️ or [tweet us](https://twitter.com/employbl_jobs) 🐦. If you don't have those accounts, then send us an [email](connor@employbl.com) 📨.
-
 ----
 
 ## 🔧 Skills
@@ -95,3 +93,6 @@ Right now we focus primarily on candidates and companies in the San Francisco Ba
 - Vue.js
 - Willing to travel
 - Wordpress
+
+----
+> **Add a skill:** To add a new skill to this list [open an issue](https://github.com/Employbl/candidate-skills-list/issues/new) ⬆️ or [tweet us](https://twitter.com/employbl_jobs) 🐦. If you don't have those accounts, then send us an [email](connor@employbl.com) 📨.
