@@ -4,7 +4,7 @@ This repo is an open source list of skills that are available to candidates to c
 
 Right now we focus primarily on candidates and companies in the San Francisco Bay Area within Engineering, Marketing and Design.
 
-Sills are maintained on [this Airtable spreadsheet](https://airtable.com/invite/l?inviteId=invexdWq5y9ru4Sy2&inviteToken=85a74289c88a5bda48bf7c41e45c004f19e2951e12bda6e828438d48438b3419)
+Skills are maintained on [this Airtable spreadsheet](https://airtable.com/invite/l?inviteId=invexdWq5y9ru4Sy2&inviteToken=85a74289c88a5bda48bf7c41e45c004f19e2951e12bda6e828438d48438b3419)
 
 ----
 
